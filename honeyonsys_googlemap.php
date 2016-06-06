@@ -1,7 +1,7 @@
 <?php
 /* 
 Plugin Name: Honeyonsys Google Map
-Plugin URI: http://honeyonsys.github.io/wordpressplugins/hgm/
+Plugin URI: https://github.com/honeyonsys/honeyonsys-google-map/wiki
 Description: This plugin is to display the google map on your wordpress blog/page. You can show single/multiple markers on the map and also can style the map.
 Version: 1.0 
 Author: honeyonsys
