@@ -23,6 +23,10 @@ You should have received a copy of the GNU General Public License
 along with Honeyonsys Google Map. If not, see {License URI}.
 */ 
 
+// Block direct requests
+if ( !defined('ABSPATH') )
+	die('-1');
+
 $siteurl = get_option('siteurl');
 define('HGM_FOLDER', dirname(plugin_basename(__FILE__)));
 define('HGM_URL', $siteurl.'/wp-content/plugins/' . HGM_FOLDER);
